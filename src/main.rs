@@ -7,4 +7,5 @@ fn main() {
 
     todo!("4. Call saved [info file] if you have input data");
     todo!("5. Generate random with [info file]!!!");
+    //asd;lkfjsaldflasdf
 }
